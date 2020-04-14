@@ -1,9 +1,9 @@
 def create_an_empty_array
-  superheros = ["Flash", "Batman", "Superman"]
+  empty = []
 end
 
 def create_an_array
-
+  superheros = ["Flash", "Batman", "Superman"]
 end
 
 def add_element_to_end_of_array(array, element)
